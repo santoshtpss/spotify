@@ -1,0 +1,17 @@
+{
+  "name": "spotify_backend",
+  "version": "1.0.0",
+  "description": "\"this will contain the backend code for the spotify clone\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "santosh sah",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "passport-jwt": "^4.0.1"
+  }
+}
